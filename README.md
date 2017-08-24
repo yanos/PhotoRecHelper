@@ -11,7 +11,7 @@ This tool is meant to be run against a [PhotoRec](http://www.cgsecurity.org/wiki
 
 # Usage
 
-mono PhtotoRecHelper.exe \<source directory\> \<output directory\> \<options\>
+mono PhotoRecHelper.exe \<source directory\> \<output directory\> \<options\>
 
 # Options
 ```
