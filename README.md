@@ -14,14 +14,15 @@ This tool is meant to be run against a [PhotoRec](http://www.cgsecurity.org/wiki
 mono PhtotoRecHelper.exe \<source directory\> \<output directory\> \<options\>
 
 # Options
-> -x, --force-extract          Force extract every archive (default is to ignore
->                              already extracted archive from a previous run.)
-> 
-> -m, --move-file              Move files to destination instead of copying
-> 
-> -mh, --min-img-height=VALUE  Only consider image that have at least this height (default 300)
-> 
-> -mw, --min-img-width=VALUE   Only consider image that have at least this width (default 300)
-> 
-> -h, --help                   show this message and exit
+```
+-x, --force-extract          Force extract every archive (default is to ignore
+                             already extracted archive from a previous run.)
 
+-m, --move-file              Move files to destination instead of copying
+
+-mh, --min-img-height=VALUE  Only consider image that have at least this height (default 300)
+
+-mw, --min-img-width=VALUE   Only consider image that have at least this width (default 300)
+
+-h, --help                   show this message and exit
+```

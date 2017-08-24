@@ -1,0 +1,18 @@
+Initial commit
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .gitignore
+#	new file:   ArchiveExtractor.cs
+#	new file:   FileAggregator.cs
+#	new file:   ImageFetcher.cs
+#	new file:   PhotoRecHelper.cs
+#	new file:   PhotoRecHelper.csproj
+#	new file:   PhotoRecHelper.sln
+#	new file:   Properties/AssemblyInfo.cs
+#	new file:   packages.config
+#
